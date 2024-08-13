@@ -1,0 +1,1 @@
+This Python & OpenCV project brings the future of interaction to your fingertips. By harnessing the power of computer vision, it transforms your hand movements into precise cursor controls, revolutionizing how you interact with your computer.
