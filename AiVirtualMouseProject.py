@@ -10,6 +10,7 @@ frameR = 100 # Frame Reduction
 smoothening = 7
 #########################
 
+
 pTime = 0
 plocX, plocY = 0, 0
 clocX, clocY = 0, 0
